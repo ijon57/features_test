@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  type: 
+  value: MyString
+  associated_id: 1
+  associated_type: MyString
+
+two:
+  type: 
+  value: MyString
+  associated_id: 1
+  associated_type: MyString

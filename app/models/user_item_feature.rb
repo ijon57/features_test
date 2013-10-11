@@ -1,0 +1,2 @@
+class UserItemFeature < Feature
+end

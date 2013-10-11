@@ -1,0 +1,2 @@
+class WaistSize < UserItemFeature
+end
