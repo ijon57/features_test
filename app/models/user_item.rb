@@ -6,6 +6,6 @@ class UserItem < ActiveRecord::Base
   attr_accessible :user_id, :item_id, :user, :item
 
   def waist_size
-    Feature.value(self, WaistSize, :integer)
+    WaistSize.value(self)
   end
 end
